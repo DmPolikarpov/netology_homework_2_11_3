@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/dpoli/source/repos/netology_homework_2_11_3/CMakeLeaver/out/build/x64-debug/CMakeFiles/CMakeLeaver.dir/embed.manifest"
