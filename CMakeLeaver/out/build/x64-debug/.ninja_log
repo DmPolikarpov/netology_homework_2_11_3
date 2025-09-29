@@ -1,6 +1,0 @@
-# ninja log v6
-3	864	7806223366372744	CMakeFiles/CMakeLeaver.dir/CMakeLeaver.cpp.obj	18476451dbe95b59
-5	353	7806224694144453	CMakeFiles/LeaverLibrary.dir/LeaverLibrary.cpp.obj	43b0411a12e49715
-354	596	7806224699835246	LeaverLibrary.dll	ce6d02dbe2ffc1c3
-354	596	7806224699835246	LeaverLibrary.lib	ce6d02dbe2ffc1c3
-596	799	7806224699993611	CMakeLeaver.exe	9f553ef8bf4faf1b
